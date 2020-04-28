@@ -83,6 +83,12 @@ p1{
   font-size: smaller;
 }
 
+.media img {
+  width: 175px;
+  height: 175px;
+}
+
+
 /* The footer */
 
 .footerdesign{
