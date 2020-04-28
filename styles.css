@@ -1,0 +1,98 @@
+/* Typography */
+body {
+    /* Everything is Manrope */
+    font-family:'Delius Swash Caps', cursive;
+    font-family:'Londrina Outline', cursive;
+    font-family:'Montserrat', sans-serif;
+  }
+  
+  .navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+  }
+  .navbar-brand img {
+    width: 30px;
+    height: 30px;
+  }
+  .navbar-light .navbar-brand {
+    color:white;
+  }
+  
+  /* Navbar background color */
+  .navbar {
+    background-color:pink;
+  }
+
+  .carousel {
+    position: center;
+  }
+  
+  .carousel.pointer-event {
+    touch-action: pan-y;
+  }
+  
+  .carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    backface-visibility: hidden;
+  }
+  
+  .carousel-item.active,
+  .carousel-item-next,
+  .carousel-item-prev {
+    display: block;
+  }
+  
+  .carousel-item-next:not(.carousel-item-left),
+  .active.carousel-item-right {
+    transform: translateX(100%);
+  }
+  
+  .carousel-item-prev:not(.carousel-item-right),
+  .active.carousel-item-left {
+    transform: translateX(-100%);
+  }
+  
+ .profile {
+   color: palevioletred;
+ }
+
+ h4 {
+  color: palevioletred;
+}
+ 
+ div { text-align: center; }
+ ul { display: inline-block; text-align: left; }
+
+ .work {
+  color: palevioletred;
+}
+
+p1{
+  font-family:'Montserrat', sans-serif;
+  font-style: italic;
+  font-size: smaller;
+}
+
+/* The footer */
+
+.footerdesign{
+  background-color:pink;
+  height: 5rem;
+}
+
+.footer img {
+  width: 50px;
+  align-content: center;
+  margin-top: 1rem;
+}
+
