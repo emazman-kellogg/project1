@@ -1,5 +1,7 @@
 # project1
 
-This project is the beginning of an interactive resume. I've seen some before and thought they were cool and its become challenging to express the most important work on my resume. This is a cool way to be creative and bridge the gap. I'm looking forward to building this out more! 
+Website for Northwestern University's Kellogg School of Management. For educational purposes only. 
 
-Live URL: x.
+Overview: This website is the beginning of an interactive resume. I've seen some before and think they are a great way to be a bit more creative (especially if you come from a dull background like finance), showcase some technical capabilities, and separate work experience into relevant themes. I'm looking forward to building this out more! 
+
+Live URL: https://emazman-kellogg.github.io/project1/index.html.
